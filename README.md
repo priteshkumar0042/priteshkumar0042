@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @priteshkumar0042
-- 👀 I’m interested in Data Science Projects
+- 👀 I’m interested in Data Science Projects using Python, Numpy, pandas, matplotlib, Machine Learning, etc.
 - 🌱 I’m currently learning Python and Data Science
 - 💞️ I’m looking to collaborate on any Data Science Projects
 - 📫 How to reach me:pritesh.117039@gmail.com
